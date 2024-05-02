@@ -1,6 +1,6 @@
 # SQL_Project_Finance_Analytics_and_Report_Generation
 
-### Link to SQL_Project_Finance_Analytics_and_Report_Generation : Linkedin Post
+### Link to SQL_Project_Finance_Analytics : [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7191709524955742209/)
 
 ## Project Overview
 
